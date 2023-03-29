@@ -1,0 +1,53 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.logo-w {
+  width: 86pt;
+  height: 25pt;
+}
+
+.logo-b {
+    width: 82pt;
+    height: 24pt;
+  }
+
+.success {
+  background: #28a745;
+}
+.navtext {
+  color: white;
+}
+.card-text-precios {
+  display: flex;
+  justify-content: end;
+}
+.card-title {
+  font-weight: 300;
+  color: #212529;
+}
+
+.card-text {
+  color: #707070;
+  font-weight: 300;
+}
+
+.p-normal {
+  margin-left: 50px;
+  margin-bottom: 0;
+  color: #707070;
+  font-weight: 300;
+  padding: 5px;
+
+}
+
+.p-oferta {
+  margin-left: 10px;
+  color: #28a745;
+  font-size: 1.25em;
+}
+
+
+
+
